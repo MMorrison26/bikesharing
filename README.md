@@ -15,4 +15,4 @@ If you take a look at the Tableau Story included in the link below, you will see
 * Darker (touristy) areas are the most popular starting locations for Citibike. We'll need to identify those ares in Iowa.
 
 ### *Sumary*
-There is great success for Citibike in New York among young to middle aged customers in the morning and afternoon commuting hours with some leisurely usage over the weekend. 
+There is great success for Citibike in New York among young to middle aged customers in the morning and afternoon commuting hours with some leisurely usage over the weekend. It might be good to take a look at how many bikes Citibike utilizes on a daily basis as well as Ending Locations to see if those differ greatly from Starting Locations. Overall, we hope to be as popular as Citibike in Iowa in the years to come!
